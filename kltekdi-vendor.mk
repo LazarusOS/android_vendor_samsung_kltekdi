@@ -16,4 +16,8 @@
 
 # Pick up overlay for features that depend on non-open-source files
 
+PRODUCT_PACKAGES += \
+    FeliCaLock \
+    libcordon
+
 $(call inherit-product, vendor/samsung/kltekdi/kltekdi-vendor-blobs.mk)
