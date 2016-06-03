@@ -71,7 +71,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/kltekdi/proprietary/felica/etc/felica/mfc_push.cfg:system/etc/felica/mfc_push.cfg \
 	vendor/samsung/kltekdi/proprietary/felica/etc/felica/mfm.cfg:system/etc/felica/mfm.cfg \
 	vendor/samsung/kltekdi/proprietary/felica/etc/felica/mfs.cfg:system/etc/felica/mfs.cfg \
-	vendor/samsung/kltekdi/proprietary/felica/etc/osaifu/osaifu.cfg:system/etc/osaifu/osaifu.cfg \
 	vendor/samsung/kltekdi/proprietary/felica/lib/libcordon.so:system/lib/libcordon.so \
 
 ## snfc
