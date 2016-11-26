@@ -60,10 +60,6 @@ PRODUCT_COPY_FILES += \
 
 ## FeliCa
 PRODUCT_COPY_FILES += \
-	vendor/samsung/kltekdi/proprietary/felica/app/MobileFeliCaClient.apk:system/app/MobileFeliCaClient/MobileFeliCaClient.apk \
-	vendor/samsung/kltekdi/proprietary/felica/app/MobileFeliCaMenuApp.apk:system/app/MobileFeliCaMenuApp/MobileFeliCaMenuApp.apk \
-	vendor/samsung/kltekdi/proprietary/felica/app/MobileFeliCaSettingApp.apk:system/app/MobileFeliCaSettingApp/MobileFeliCaSettingApp.apk \
-	vendor/samsung/kltekdi/proprietary/felica/app/MobileFeliCaWebPluginBoot.apk:system/app/MobileFeliCaWebPluginBoot/MobileFeliCaWebPluginBoot.apk \
 	vendor/samsung/kltekdi/proprietary/felica/bin/mfdp:system/bin/mfdp \
 	vendor/samsung/kltekdi/proprietary/felica/bin/mfsc:system/bin/mfsc \
 	vendor/samsung/kltekdi/proprietary/felica/etc/felica/common.cfg:system/etc/felica/common.cfg \
